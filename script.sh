@@ -15,3 +15,4 @@ sudo ufw allow bind9
 
 #CONFIGURACIÓN
 sudo cp -r dhcpd.conf /etc/dhcp
+sudo cp -r isc-dhcp-server /etc/default
