@@ -10,7 +10,6 @@ sudo rm -r webmin*
 
 #HABILITAR SERVICIOS
 sudo ufw allow webmin
-sudo ufw allow isc-dhcp-server
 sudo ufw allow bind9
 
 #CONFIGURACIÓN
